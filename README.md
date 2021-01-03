@@ -2,7 +2,7 @@
 
 Hello! I'm currently working as a developer at Sphere Technology Solutions. When I'm not coding I'm usually listening to music, playing Minecraft, or chess.
 
-[Renjie's github stats](https://github-readme-stats.vercel.app/api?username=rzhou10&theme=dark&show_icons=true)
+![Renjie's github stats](https://github-readme-stats.vercel.app/api?username=rzhou10&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzhou10)](https://github.com/anuraghazra/github-readme-stats)
 ### Things I'm planning on learning:
