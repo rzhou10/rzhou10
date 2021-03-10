@@ -5,7 +5,7 @@ Hello! I'm currently working as a developer at Sphere Technology Solutions. When
 ![Renjie's github stats](https://github-readme-stats.vercel.app/api?username=rzhou10&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzhou10)](https://github.com/anuraghazra/github-readme-stats)
-### Things I'm planning on learning:
+### Things I'm interested on learning:
 <p align="center">
     <a href="#">
         <img src="svg/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
