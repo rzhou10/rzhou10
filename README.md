@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I'm currently working as a developer at Sphere Technology Solutions. When I'm not coding I'm usually listening to music, playing Minecraft, or chess.
+Hello! I'm currently working as a developer at Shoppable.com. When I'm not coding I'm usually listening to music or chess.
 
 ![Renjie's github stats](https://github-readme-stats.vercel.app/api?username=rzhou10&theme=dark&show_icons=true)
 
