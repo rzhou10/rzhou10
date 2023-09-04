@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I'm currently working as a developer at Shoppable.com. When I'm not coding I'm usually listening to music or chess.
+Hello! I'm currently working as a developer at Shoppable.com. When I'm not coding I'm usually listening to music or playing chess.
 
 ![Renjie's github stats](https://github-readme-stats.vercel.app/api?username=rzhou10&theme=dark&show_icons=true)
 
