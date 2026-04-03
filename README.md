@@ -11,9 +11,6 @@ Hello! I'm a software engineer working professionally since 2019. When I'm not c
         <img src="svg/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="#">
-        <img src="svg/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#">
         <img src="svg/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
     </a>
 </p>
